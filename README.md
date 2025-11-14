@@ -12,13 +12,13 @@
 - **Time Period Used**: Only 10 years of data (2015–2024) were included.
 - **Categories Selected**: From the full dataset, only Vegetbales, Fruits and Grains product groups were used in this analysis
   All other product categories were removed.
-- **Tables Created**: Two cleaned tables were prepared:
--US_FoodImports_Country : Contains country-wise food import data.
--US_FoodImports_Summary : Provides an overall summary of U.S. food imports.
+- **Tables Created**: Two cleaned tables were prepare.
+ - US_FoodImports_Country : Contains country-wise food import data.
+ - US_FoodImports_Summary : Provides an overall summary of U.S. food imports.
 - **Calculated Measures Created**: Three custom metrics were added:
-  -Price per MT
-  -Inflation %
-  -CAGR
+  - Price per MT
+  - Inflation %
+  - CAGR
 - **Formatting**: Verified column data types (Currency for import value; text for country, commodities, decimal for import volmue) and ensured consistent naming.
 
 ## Key Problem Statement
