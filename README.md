@@ -19,7 +19,7 @@ Two cleaned tables were prepared:
 Three custom metrics were added:
   --Price per MT
   --Inflation %
-  --CAGR
+  --CAGR.ataypes were changed 
 
 ## KEY PROBLEM STATEMENT
 - Volatility & Cost: How have the value and volume of key U.S. food imports (fruits, vegetables, grains) changed over the last decade (2015–2024), and what is the impact of price inflation on these essential food items?
