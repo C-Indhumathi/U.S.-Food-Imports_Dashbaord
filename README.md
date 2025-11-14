@@ -1,8 +1,8 @@
-# U.S. Food Imports Trend Analysis (2015-2024) Dashboard 
+# U.S. Food Imports Trend Analysis (2015-2024)
 
-The primary goal of this dashboard is to provide a comprehensive, interactive analysis of U.S. import trends for essential food categories (Fruits, Vegetables, Grains) to inform strategic decisions related to sourcing, pricing, and trade policy.
+- The primary goal of this dashboard is to provide a comprehensive, interactive analysis of U.S. import trends for essential food categories (Fruits, Vegetables, Grains) to inform strategic decisions related to sourcing, pricing, and trade policy.
 ---
-## Data Source
+## DATA SOURCE
 - The data for this dashboard was obtained from open datasets provided by U.S. Department of Agriculture.
 - Source : https://www.ers.usda.gov/data-products/us-food-imports
 - Dataset File type : FoodImports.csv
