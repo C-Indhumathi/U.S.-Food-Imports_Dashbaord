@@ -13,8 +13,8 @@
 - **Categories Selected**: From the full dataset, only Vegetbales, Fruits and Grains product groups were used in this analysis
   All other product categories were removed.
 - **Tables Created**: Two cleaned tables were prepared:
-  -US_FoodImports_Country : Contains country-wise food import data.
-  -US_FoodImports_Summary : Provides an overall summary of U.S. food imports.
+-US_FoodImports_Country : Contains country-wise food import data.
+-US_FoodImports_Summary : Provides an overall summary of U.S. food imports.
 - **Calculated Measures Created**: Three custom metrics were added:
   -Price per MT
   -Inflation %
