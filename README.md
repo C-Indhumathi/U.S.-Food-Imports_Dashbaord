@@ -4,7 +4,7 @@ The primary goal of this dashboard is to provide a comprehensive, interactive an
 ---
 ## Data Source and Data 
 ### Source : https://www.ers.usda.gov/data-products/us-food-imports
-### Datatype : U.S.FoodImports.csv
+### Dataset File type : FoodImports.csv
 ---
 
 ## KEY PROBLEM STATEMENT
