@@ -2,33 +2,31 @@
 
 - The primary goal of this dashboard is to provide a comprehensive, interactive analysis of U.S. import trends for essential food categories (Fruits, Vegetables, Grains) to inform strategic decisions related to sourcing, pricing, and trade policy.
 ---
-## DATA SOURCE
+## Data Source
 - The data for this dashboard was obtained from open datasets provided by U.S. Department of Agriculture.
-- Source : https://www.ers.usda.gov/data-products/us-food-imports
-- Dataset File type : FoodImports.csv
+- **Source** : https://www.ers.usda.gov/data-products/us-food-imports
+- **Dataset File type** : FoodImports.csv
 ---
-## DATA CLEANING AND PREAPARTION ( PowerBI Powerquery)
-- Time Period Used: Only 10 years of data (2015–2024) were included.
-- Categories Selected: From the full dataset, only Vegetbales, Fruits and Grains product groups were used in this analysis
+## Data Cleaning and Preparation ( PowerBI Powerquery)
+- **Time Period Used**: Only 10 years of data (2015–2024) were included.
+- **Categories Selected**: From the full dataset, only Vegetbales, Fruits and Grains product groups were used in this analysis
   All other product categories were removed.
-- Tables Created:
-Two cleaned tables were prepared:
+- **Tables Created**: Two cleaned tables were prepared:
 --US_FoodImports_Country : Contains country-wise food import data.
 --US_FoodImports_Summary : Provides an overall summary of U.S. food imports.
-- Calculated Measures Created:
-Three custom metrics were added:
+- **Calculated Measures Created**: Three custom metrics were added:
   --Price per MT
   --Inflation %
   --CAGR
-- Formatting: Verified column data types (Currency for import value; text for country, commodities, decimal for import volmue) and ensured consistent naming.
+- **Formatting**: Verified column data types (Currency for import value; text for country, commodities, decimal for import volmue) and ensured consistent naming.
 
-## KEY PROBLEM STATEMENT
+## Key Problem Statement
 - Volatility & Cost: How have the value and volume of key U.S. food imports (fruits, vegetables, grains) changed over the last decade (2015–2024), and what is the impact of price inflation on these essential food items?
 - Source Dependency: Which countries are the U.S.'s most significant and fastest-growing sources for these food categories, and what is the resulting level of source dependency?
 
 ---
 
-## DASHBOARD OBJECTIVES
+## Dashboard Objectives
 - Inflation Impact: Visualize the trend of Price per MT and Inflation % over the 10-year period to show how import costs have affected U.S. consumers and businesses.
 - Trade Balance: Identify the overall growth/decline in the total value and volume of food imports across the three categories.
 - Top Contributors: Pinpoint the top commodity-country combinations that dominate the import landscape for each category.
@@ -37,7 +35,7 @@ Three custom metrics were added:
 
 ---
 
-## DASHBOARD PAGES
+## Dashboard Pages
 
 ### Key KPIs
 | Total Import Value (US$) | Total Import Volume (MT) | Avg Price per Metric Ton – Calculated Measure | CAGR of Price per Metric Ton – Calculated Measure |
@@ -129,7 +127,7 @@ Price Growth (Lowest): Shows the most controlled price increases with the lowest
 
 ---
 
-### KEY FINDINGS/OUTCOMES
+### Key Findings/Outcomes
 
 #### Inflation & Import Cost Volatility
 Price per MT and YoY inflation behave differently across categories, revealing distinct risk profiles. Fruits show the highest price levels and the greatest volatility, with frequent sharp inflation swings. Grains, despite being low-cost, also experience occasional large inflation spikes, reflecting sensitivity to global commodity shocks. Vegetables remain comparatively stable, with moderate, consistent inflation trends.
