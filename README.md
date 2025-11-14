@@ -1,6 +1,6 @@
 # Capstone Project on Interactive Dashboards with PowerBI
 # U.S. FOOD IMPORTS TREND ANALYSIS (2015-2024)
-![Dashboard Page 0](Dashboard/images/dashboard_page0.png)
+![Dashboard Page 0](Dashboard/Images/dashboard_page0.png)
 - The primary goal of this dashboard is to provide a comprehensive, interactive analysis of U.S. import trends for essential food categories (Fruits, Vegetables, Grains) to inform strategic decisions related to sourcing, pricing, and trade policy.
 ---
 ## Data Source
