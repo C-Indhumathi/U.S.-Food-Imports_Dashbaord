@@ -111,7 +111,7 @@ Price Growth (Lowest): Shows the most controlled price increases with the lowest
 ---
 
 ####  _Grains Imports: Key Trends, Price Analysis, And Global Sourcing_
-![Dashboard Page 4](Dashboard/images/dashboard_page4.png)
+![Dashboard Page 4](Dashboard/Images/dashboard_page4.png)
 #####  Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Grains (Line Chart)
 - U.S. Grains Imports from Top 10 Countries by Value (Bar Chart)
