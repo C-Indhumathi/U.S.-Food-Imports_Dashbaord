@@ -14,7 +14,7 @@
 - **Time Period Used**: Only 10 years of data (2015–2024) were included.
 - **Categories Selected**: From the full dataset, only Vegetbales, Fruits and Grains product groups were used in this analysis
   All other product categories were removed.
-- **Tables Created**: Two cleaned tables were prepare.
+- **Tables Created**: Two cleaned tables were prepared from the raw dataset.
    - US_FoodImports_Country : Contains country-wise food import data.
    - US_FoodImports_Summary : Provides an overall summary of U.S. food imports.
 - **Calculated Measures Created**: Three custom metrics were added:
