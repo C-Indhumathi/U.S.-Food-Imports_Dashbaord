@@ -47,7 +47,7 @@
 ---
 
 #### _U.S. Food Imports: Executive Summary & Key Trends (2015–2024)_
-![Dashboard Page 1](Dashboard/images/dashboard_page1.png)
+![Dashboard Page 1](Dashboard/Images/dashboard_page1.png)
 ##### Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Fruits, Vegetables & Grains (Line Chart)
 - Import Value (US$) and Import Volume (MT) Distribution: Fruits, Vegetables & Grains (Donut Chart)
@@ -71,7 +71,7 @@ Largest share of volume (33.13%) but smallest share of value (29.07%). Imported 
 ---
 
 ####   _Fruits Imports: Key Trends, Price Analysis, And Global Sourcing_
-![Dashboard Page 2](Dashboard/images/dashboard_page2.png)
+![Dashboard Page 2](Dashboard/Images/dashboard_page2.png)
 #####  Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Fruits (Line Chart)
 - U.S. Fruit Imports from Top 10 Countries by Value (Bar Chart)
@@ -90,7 +90,7 @@ Largest share of volume (33.13%) but smallest share of value (29.07%). Imported 
 ---
 
 ####  _Vegetables Imports: Key Trends, Price Analysis, And Global Sourcing_
-![Dashboard Page 3](Dashboard/images/dashboard_page3.png)
+![Dashboard Page 3](Dashboard/Images/dashboard_page3.png)
 #####  Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Vegetables (Line Chart)
 - U.S. Vegetable Imports from Top 10 Countries by Value (Bar Chart)
