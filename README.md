@@ -43,7 +43,7 @@
 
 ---
 
-### U.S. Food Imports: Executive Summary & Key Trends (2015–2024)
+### _U.S. Food Imports: Executive Summary & Key Trends (2015–2024)_
 
 #### Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Fruits, Vegetables & Grains (Line Chart)
@@ -67,7 +67,7 @@ Largest share of volume (33.13%) but smallest share of value (29.07%). Imported 
 
 ---
 
-### Fruits Imports: Key Trends, Price Analysis, And Global Sourcing
+### _Fruits Imports: Key Trends, Price Analysis, And Global Sourcing_
 
 #### Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Fruits (Line Chart)
@@ -86,7 +86,7 @@ Largest share of volume (33.13%) but smallest share of value (29.07%). Imported 
 
 ---
 
-### Vegetables Imports: Key Trends, Price Analysis, And Global Sourcing
+### _Vegetables Imports: Key Trends, Price Analysis, And Global Sourcing_
 
 #### Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Vegetables (Line Chart)
@@ -107,7 +107,7 @@ Price Growth (Lowest): Shows the most controlled price increases with the lowest
 
 ---
 
-# Grains Imports: Key Trends, Price Analysis, And Global Sourcing
+### _Grains Imports: Key Trends, Price Analysis, And Global Sourcing_
 
 #### Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Grains (Line Chart)
@@ -127,7 +127,7 @@ Price Growth (Lowest): Shows the most controlled price increases with the lowest
 
 ---
 
-### Key Findings/Outcomes
+## Key Findings/Outcomes
 
 #### Inflation & Import Cost Volatility
 Price per MT and YoY inflation behave differently across categories, revealing distinct risk profiles. Fruits show the highest price levels and the greatest volatility, with frequent sharp inflation swings. Grains, despite being low-cost, also experience occasional large inflation spikes, reflecting sensitivity to global commodity shocks. Vegetables remain comparatively stable, with moderate, consistent inflation trends.
