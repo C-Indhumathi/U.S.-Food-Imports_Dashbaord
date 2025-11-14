@@ -139,7 +139,7 @@ Price per MT and YoY inflation behave differently across categories, revealing d
 The value-to-volume share comparison shows how each category contributes to the overall U.S. import landscape. Fruits account for the largest share of total import value (about 43%), highlighting their role as a high-value category. Grains make up the largest share of total import volume (about 33%), confirming their position as high-volume, cost-efficient staples essential for food security.
 
 #####  Top Contributors (Country Concentration)
-Although not visible in this table, U.S. import patterns generally show high geographic concentration. Industry trade data indicates that Mexico is a leading supplier of fresh fruits and vegetables, while Canada is a major exporter of several grain products. This concentration suggests notable supply-chain exposure to country-specific risks.
+Mexico is a leading supplier of fresh fruits and vegetables, while Canada is a major exporter of several grain products. This concentration suggests notable supply-chain exposure to country-specific risks.
 
 #####  Price-Per-Ton Insight
 While Fruits have the highest total import value and significant price volatility, Vegetables actually have the highest average price per metric ton, slightly above Fruits. This suggests hidden cost drivers, such as refrigeration, handling, transportation constraints, or a product mix including high-value vegetable varieties.
