@@ -2,9 +2,10 @@
 
 The primary goal of this dashboard is to provide a comprehensive, interactive analysis of U.S. import trends for essential food categories (Fruits, Vegetables, Grains) to inform strategic decisions related to sourcing, pricing, and trade policy.
 ---
-## Data Source and Data 
-### Source : https://www.ers.usda.gov/data-products/us-food-imports
-### Dataset File type : FoodImports.csv
+## Data Source
+- The data for this dashboard was obtained from open datasets provided by U.S. Department of Agriculture.
+- Source : https://www.ers.usda.gov/data-products/us-food-imports
+- Dataset File type : FoodImports.csv
 ---
 
 ## KEY PROBLEM STATEMENT
