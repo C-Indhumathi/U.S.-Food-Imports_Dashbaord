@@ -37,7 +37,7 @@
 
 ## Dashboard Pages
 
-### Key KPIs
+### _Key KPIs_
 | Total Import Value (US$) | Total Import Volume (MT) | Avg Price per Metric Ton – Calculated Measure | CAGR of Price per Metric Ton – Calculated Measure |
 |--------------------------|---------------------------|-----------------------------------------------|---------------------------------------------------|
 
