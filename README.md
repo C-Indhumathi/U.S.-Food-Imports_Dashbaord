@@ -5,8 +5,10 @@
 ---
 ## Data Source
 - The data for this dashboard was obtained from open datasets provided by U.S. Department of Agriculture.
+- **Citation** : U. S. Department of Agriculture, Economic Research Service. U.S. Food Imports Data.
 - **Source** : https://www.ers.usda.gov/data-products/us-food-imports
 - **Dataset File type** : FoodImports.csv
+- **License** : Public Dataset
 ---
 ## Data Cleaning and Preparation ( PowerBI Powerquery)
 - **Time Period Used**: Only 10 years of data (2015–2024) were included.
