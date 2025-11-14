@@ -37,15 +37,15 @@
 
 ## Dashboard Pages
 
-### _Key KPIs_
+#### _Key KPIs_
 | Total Import Value (US$) | Total Import Volume (MT) | Avg Price per Metric Ton – Calculated Measure | CAGR of Price per Metric Ton – Calculated Measure |
 |--------------------------|---------------------------|-----------------------------------------------|---------------------------------------------------|
 
 ---
 
-### _U.S. Food Imports: Executive Summary & Key Trends (2015–2024)_
+#### _U.S. Food Imports: Executive Summary & Key Trends (2015–2024)_
 
-#### Key Visuals
+##### Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Fruits, Vegetables & Grains (Line Chart)
 - Import Value (US$) and Import Volume (MT) Distribution: Fruits, Vegetables & Grains (Donut Chart)
 - Import Price per Metric Ton of Fruits, Vegetables and Grains (Bar Chart)
@@ -53,23 +53,23 @@
 - YoY Change in Import Price per MT for Fruits, Vegetables and Grains (Scatter Plot)
 - Total Import Volume (MT) by Commodity (Tree map)
 
-#### Insights
+##### Insights
 U.S. food imports grew steadily from 2015 to 2024, totalling $565.8 Billion in value and 472.3 million MT in volume. The average import price per metric ton (MT) increased, resulting in a 4.86% CAGR for import price inflation across the three categories.
 
-#### Fruits  
+#####  Fruits  
 High share of both value (43.3%) and volume (40.92%). Consistently command the highest prices per MT with a steadily increasing trend and frequent inflation spikes, positioning them as a premium, high-cost category driven by strong demand.
 
-#### Vegetables  
+#####  Vegetables  
 Moderate share of value (27.63%) and volume (25.96%). Mid-range and predictable due to gradual price increases and stable inflation. However, they show the highest average price per MT when comparing value to volume, indicating a higher cost per unit for this product mix compared to fruits or grains.
 
-#### Grains  
+#####  Grains  
 Largest share of volume (33.13%) but smallest share of value (29.07%). Imported in bulk at the lowest price per MT. Although long-term price growth is slow, the inflation trend is volatile, with sharp spikes (e.g., 2017, 2021), confirming their role as cost-efficient staples exposed to global market shocks.
 
 ---
 
-### _Fruits Imports: Key Trends, Price Analysis, And Global Sourcing_
+####   _Fruits Imports: Key Trends, Price Analysis, And Global Sourcing_
 
-#### Key Visuals
+#####  Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Fruits (Line Chart)
 - U.S. Fruit Imports from Top 10 Countries by Value (Bar Chart)
 - Which Commodity Dominates U.S. Fruit Imports? (Ribbon Chart)
@@ -78,7 +78,7 @@ Largest share of volume (33.13%) but smallest share of value (29.07%). Imported 
 - Topmost Exporter's Share of Total U.S. Fruit Imports (Donut Chart)
 - Price Inflation % of Unit Price by Year (Matrix)
 
-#### Insights
+#####  Insights
 - Price Growth (Highest): Exhibits the strongest price growth with a 4.99% Price per MT CAGR. Price nearly raised up to 50% from $1,021.72 in 2015 to $1,582.98 in 2024.
 - Volume & Value: Volume growth is consistent, suggesting demand is not deterred by rising prices.
 - Commodity Driver: Volume is dominated by Fresh or chilled fruit. However, Fruit Juices command the highest unit price due to being a value-added, processed product.
@@ -86,9 +86,9 @@ Largest share of volume (33.13%) but smallest share of value (29.07%). Imported 
 
 ---
 
-### _Vegetables Imports: Key Trends, Price Analysis, And Global Sourcing_
+####  _Vegetables Imports: Key Trends, Price Analysis, And Global Sourcing_
 
-#### Key Visuals
+#####  Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Vegetables (Line Chart)
 - U.S. Vegetable Imports from Top 10 Countries by Value (Bar Chart)
 - Which Vegetable Commodity has the Highest Import Volume? (Tree Map)
@@ -98,7 +98,7 @@ Largest share of volume (33.13%) but smallest share of value (29.07%). Imported 
 - Price Inflation % of Unit Price by Year (Matrix)
 - Year-wise Statistical  Distribution of Price per MT (Python Box plot)
 
-#### Insights
+#####  Insights
 Price Growth (Lowest): Shows the most controlled price increases with the lowest 3.34% Price per MT CAGR. The price per MT rose gradually from $1,077.53 in 2015 to $1,545.86 in 2024, showing resilience to extreme volatility.
 
 - Volume & Value: Characterized by strong, sustained growth in both value and volume over the decade.
@@ -107,9 +107,9 @@ Price Growth (Lowest): Shows the most controlled price increases with the lowest
 
 ---
 
-### _Grains Imports: Key Trends, Price Analysis, And Global Sourcing_
+####  _Grains Imports: Key Trends, Price Analysis, And Global Sourcing_
 
-#### Key Visuals
+#####  Key Visuals
 - Annual Import Value (US$) and Import Volume (MT) of Grains (Line Chart)
 - U.S. Grains Imports from Top 10 Countries by Value (Bar Chart)
 - Which Grains Commodity has the Highest Import Volume? (Funnel Chart)
@@ -119,7 +119,7 @@ Price Growth (Lowest): Shows the most controlled price increases with the lowest
 - Price Inflation % of Unit Price by Year (Matrix)
 - Year-wise Statistical  Distribution of Price per MT (Python Box plot)
 
-#### Insights
+#####  Insights
 - Price Growth (Highest CAGR): Has the highest 5.98% Price per MT CAGR, driven by significant cost pressures (e.g., fuel, fertilizer). Price volatility is high, with a sharp increase from $856.00 in 2018 to $1,334.42 in 2021, driven by 15.1% inflation.
 - Volume & Value: Annual import volume shows high volatility (sharp dip 2019–2021, followed by a surge). Bulk grains have the highest import value.
 - Commodity Driver: Cereal and bakery foods command the highest unit price ($3,141 per unit), consistent with the premium for highly processed goods.
@@ -129,17 +129,17 @@ Price Growth (Lowest): Shows the most controlled price increases with the lowest
 
 ## Key Findings/Outcomes
 
-#### Inflation & Import Cost Volatility
+#####  Inflation & Import Cost Volatility
 Price per MT and YoY inflation behave differently across categories, revealing distinct risk profiles. Fruits show the highest price levels and the greatest volatility, with frequent sharp inflation swings. Grains, despite being low-cost, also experience occasional large inflation spikes, reflecting sensitivity to global commodity shocks. Vegetables remain comparatively stable, with moderate, consistent inflation trends.
 
-#### Trade Balance & Import Dominance
+#####  Trade Balance & Import Dominance
 The value-to-volume share comparison shows how each category contributes to the overall U.S. import landscape. Fruits account for the largest share of total import value (about 43%), highlighting their role as a high-value category. Grains make up the largest share of total import volume (about 33%), confirming their position as high-volume, cost-efficient staples essential for food security.
 
-#### Top Contributors (Country Concentration)
+#####  Top Contributors (Country Concentration)
 Although not visible in this table, U.S. import patterns generally show high geographic concentration. Industry trade data indicates that Mexico is a leading supplier of fresh fruits and vegetables, while Canada is a major exporter of several grain products. This concentration suggests notable supply-chain exposure to country-specific risks.
 
-#### Price-Per-Ton Insight
+#####  Price-Per-Ton Insight
 While Fruits have the highest total import value and significant price volatility, Vegetables actually have the highest average price per metric ton, slightly above Fruits. This suggests hidden cost drivers, such as refrigeration, handling, transportation constraints, or a product mix including high-value vegetable varieties.
 
-#### Predictability vs. Volatility
+#####  Predictability vs. Volatility
 Inflation stability varies substantially across categories. Vegetables show the most predictable inflation pattern, with moderate and steady changes over time. Fruits are the least predictable due to repeated sharp swings. Grains are usually stable but can experience sudden, disruptive spikes tied to global commodity markets.
