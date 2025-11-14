@@ -8,25 +8,18 @@
 - Dataset File type : FoodImports.csv
 ---
 ## DATA CLEANING AND PREAPARTION ( PowerBI Powerquery)
-•	Time Period Used:
-Only 10 years of data (2015–2024) were included.
-•	Categories Selected:
-From the full dataset, only the following product groups were used:
-•	Vegetables
-•	Fruits
-•	Grains
-All other product categories were removed.
-Tables Created:
+- Time Period Used: Only 10 years of data (2015–2024) were included.
+- Categories Selected: From the full dataset, only Vegetbales, Fruits and Grains product groups were used in this analysis
+  All other product categories were removed.
+- Tables Created:
 Two cleaned tables were prepared:
-•	US_FoodImports_Country
-o	Contains country-wise food import data.
-•	US_FoodImports_Summary
-o	Provides an overall summary of U.S. food imports.
-•	Calculated Measures Created:
+--US_FoodImports_Country : Contains country-wise food import data.
+--US_FoodImports_Summary : Provides an overall summary of U.S. food imports.
+- Calculated Measures Created:
 Three custom metrics were added:
-o	Price per MT
-o	Inflation %
-o	CAGR
+  --Price per MT
+  --Inflation %
+  --CAGR
 
 ## KEY PROBLEM STATEMENT
 - Volatility & Cost: How have the value and volume of key U.S. food imports (fruits, vegetables, grains) changed over the last decade (2015–2024), and what is the impact of price inflation on these essential food items?
