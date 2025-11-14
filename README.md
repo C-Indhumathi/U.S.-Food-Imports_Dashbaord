@@ -1,4 +1,5 @@
-# U.S. Food Imports Trend Analysis (2015-2024)
+# Capstone on Interactive Dashboards with PowerBI
+# U.S. FOOD IMPORTS TREND ANALYSIS (2015-2024)
 
 - The primary goal of this dashboard is to provide a comprehensive, interactive analysis of U.S. import trends for essential food categories (Fruits, Vegetables, Grains) to inform strategic decisions related to sourcing, pricing, and trade policy.
 ---
@@ -12,12 +13,12 @@
 - **Categories Selected**: From the full dataset, only Vegetbales, Fruits and Grains product groups were used in this analysis
   All other product categories were removed.
 - **Tables Created**: Two cleaned tables were prepared:
---US_FoodImports_Country : Contains country-wise food import data.
---US_FoodImports_Summary : Provides an overall summary of U.S. food imports.
+  -US_FoodImports_Country : Contains country-wise food import data.
+  -US_FoodImports_Summary : Provides an overall summary of U.S. food imports.
 - **Calculated Measures Created**: Three custom metrics were added:
-  --Price per MT
-  --Inflation %
-  --CAGR
+  -Price per MT
+  -Inflation %
+  -CAGR
 - **Formatting**: Verified column data types (Currency for import value; text for country, commodities, decimal for import volmue) and ensured consistent naming.
 
 ## Key Problem Statement
