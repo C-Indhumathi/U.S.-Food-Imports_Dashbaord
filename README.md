@@ -21,17 +21,17 @@
 - **Formatting**: Verified column data types (Currency for import value; text for country, commodities, decimal for import volmue) and ensured consistent naming.
 
 ## Key Problem Statement
-- Volatility & Cost: How have the value and volume of key U.S. food imports (fruits, vegetables, grains) changed over the last decade (2015–2024), and what is the impact of price inflation on these essential food items?
-- Source Dependency: Which countries are the U.S.'s most significant and fastest-growing sources for these food categories, and what is the resulting level of source dependency?
+- **Volatility & Cost**: How have the value and volume of key U.S. food imports (fruits, vegetables, grains) changed over the last decade (2015–2024), and what is the impact of price inflation on these essential food items?
+- **Source Dependency**: Which countries are the U.S.'s most significant and fastest-growing sources for these food categories, and what is the resulting level of source dependency?
 
 ---
 
 ## Dashboard Objectives
-- Inflation Impact: Visualize the trend of Price per MT and Inflation % over the 10-year period to show how import costs have affected U.S. consumers and businesses.
-- Trade Balance: Identify the overall growth/decline in the total value and volume of food imports across the three categories.
-- Top Contributors: Pinpoint the top commodity-country combinations that dominate the import landscape for each category.
-- Source Dependency: Evaluate U.S. reliance on specific countries or regions for essential food items.
-- Trade Decisions: Enable policymakers, analysts, and trade professionals to use data insights for better sourcing strategies, cost management, and trade diversification.
+- **Inflation Impact**: Visualize the trend of Price per MT and Inflation % over the 10-year period to show how import costs have affected U.S. consumers and businesses.
+- **Trade Balance**: Identify the overall growth/decline in the total value and volume of food imports across the three categories.
+- **Top Contributors**: Pinpoint the top commodity-country combinations that dominate the import landscape for each category.
+- **Source Dependency**: Evaluate U.S. reliance on specific countries or regions for essential food items.
+- **Trade Decisions**: Enable policymakers, analysts, and trade professionals to use data insights for better sourcing strategies, cost management, and trade diversification.
 
 ---
 
