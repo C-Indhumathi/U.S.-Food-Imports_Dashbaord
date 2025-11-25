@@ -1,6 +1,8 @@
 # Capstone Project on Interactive Dashboard with PowerBI
 # U.S. FOOD IMPORTS TREND ANALYSIS (2015-2024)
 ![Dashboard Page 0](Dashboard/Images/dashboard_page5.png)
+The U.S. Food Imports dataset provides annual data on the value and volume of food and beverage products entering the United States, along with their country of origin.   It captures long-term trends in consumer demand for a growing variety of products including tropical fruits, spices, and imported gourmet foods. With over 20 years of data, the dataset offers a clear lens to explore how U.S. food consumption and trade patterns have evolved over time.
+
 - The primary goal of this dashboard is to provide a comprehensive, interactive analysis of U.S. import trends for essential food categories (Fruits, Vegetables, Grains) to inform strategic decisions related to sourcing, pricing, and trade policy.
 ---
 ## Data Source
